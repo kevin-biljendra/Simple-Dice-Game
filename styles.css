@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    font-size: 50px;
+    font-family: Delicious Handrawn ;
+    margin:auto;
+
+}
+.dice{
+    font-size: 30px;
+    font-family:Delicious Handrawn ;
+    display: inline-block;
+    color: antiquewhite;
+    
+}
+
+body{
+    background-color: #408E91;
+    border: 10%;
+}
+
+footer{
+    font-size: 30px;
+    font-family:Delicious Handrawn ;
+    text-align: center;
+    margin: 5%;
+}
